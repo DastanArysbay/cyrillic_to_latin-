@@ -1,6 +1,6 @@
 import telebot as tg
 
-bot = tg.TeleBot("5890336389:AAFGJD2Secg0o2oUNhaitcBLVs4_XYmFOXY")
+bot = tg.TeleBot("API_TOKEN")
 # I
 def convert_kazakh_to_latin(text: str) -> str:
     # Define a dictionary to map Kazakh letters to latin letters
