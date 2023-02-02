@@ -15,7 +15,7 @@ Before you begin, make sure you have the following tools installed on your syste
 1.Clone the repository to your local machine using the following command:
 
 
-`$ git clone https://github.com/<user>/KazakhLatinConverterTelegramBot.git` 
+`$ git clone https://github.com/DastanArysbay/cyrillic_to_latin-` 
 
 2.Change into the project directory:
 
