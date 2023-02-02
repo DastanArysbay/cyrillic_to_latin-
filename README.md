@@ -15,17 +15,14 @@ Before you begin, make sure you have the following tools installed on your syste
 1.Clone the repository to your local machine using the following command:
 
 
-shell:
 `$ git clone https://github.com/<user>/KazakhLatinConverterTelegramBot.git` 
 
 2.Change into the project directory:
 
-shell:
 `$ cd KazakhLatinConverterTelegramBot`
 
 3.Create a virtual environment and activate it:
 
-shell:
 `$ python3 -m venv venv`
 `$ source venv/bin/activate`
 
